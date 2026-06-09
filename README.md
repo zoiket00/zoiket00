@@ -1,29 +1,19 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ██╗██╗  ██╗███████╗████████╗ ██████╗  ██████╗
-╚════██╗██╔═══██╗██║██║ ██╔╝██╔════╝╚══██╔══╝██╔═══██╗██╔═══██╗
- █████╔╝██║   ██║██║█████╔╝ █████╗     ██║   ██║   ██║██║   ██║
- ╚═══██╗██║   ██║██║██╔═██╗ ██╔══╝     ██║   ██║   ██║██║   ██║
-██████╔╝╚██████╔╝██║██║  ██╗███████╗   ██║   ╚██████╔╝╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝  ╚═════╝
-```
-
-### `> Luis David Ibarra Almario — Full Stack Developer`
-
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-zoiket00.github.io-00f5ff?style=for-the-badge&labelColor=050d18)](https://zoiket00.github.io)
-[![GitHub](https://img.shields.io/badge/GITHUB-zoiket00-c8e6f0?style=for-the-badge&logo=github&labelColor=050d18)](https://github.com/zoiket00)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-zoiket00-0077b5?style=for-the-badge&logo=linkedin&labelColor=050d18)](https://linkedin.com/in/zoiket00)
-[![Email](https://img.shields.io/badge/EMAIL-luisdavidibarraalmario@gmail.com-ff006e?style=for-the-badge&logo=gmail&labelColor=050d18)](mailto:luisdavidibarraalmario@gmail.com)
+![zoiket00 banner](banner.svg)
 
 </div>
 
 ---
 
-```
-Junior en título. Senior en mentalidad.
-Construyo productos comerciales desde el primer commit.
-```
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-zoiket00.github.io-00f5ff?style=for-the-badge&labelColor=050d18)](https://zoiket00.github.io)
+[![GitHub](https://img.shields.io/badge/GITHUB-zoiket00-c8e6f0?style=for-the-badge&logo=github&labelColor=050d18)](https://github.com/zoiket00)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-zoiket00-0077b5?style=for-the-badge&logo=linkedin&labelColor=050d18)](https://linkedin.com/in/zoiket00)
+[![Email](https://img.shields.io/badge/EMAIL-contacto-ff006e?style=for-the-badge&logo=gmail&labelColor=050d18)](mailto:luisdavidibarraalmario@gmail.com)
+
+</div>
 
 ---
 
