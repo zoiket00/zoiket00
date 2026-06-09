@@ -102,7 +102,7 @@ Sistema de control de asistencia para institución educativa real. Proyecto de c
 
 ## `[ GITHUB STATS ]`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoiket00&show_icons=true&theme=dark&bg_color=050d18&title_color=00f5ff&icon_color=00f5ff&text_color=c8e6f0&border_color=00f5ff&border_radius=0&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoiket00&show_icons=true&theme=dark&bg_color=050d18&title_color=00f5ff&icon_color=00f5ff&text_color=c8e6f0&border_color=00f5ff&border_radius=0)
 &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoiket00&layout=compact&theme=dark&bg_color=050d18&title_color=00f5ff&text_color=c8e6f0&border_color=00f5ff&border_radius=0)
 
