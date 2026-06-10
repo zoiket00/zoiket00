@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:040d21,40:081628,100:0d1117&height=260&section=header&text=ZOIKET00&fontSize=82&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Luis%20David%20Ibarra%20Almario%20%7C%20Systems%20Engineer%20%26%20Product%20Builder&descSize=17&descAlignY=60&descColor=8b9dc3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050d18,50:0a1628,100:050d18&height=200&section=header&text=ZOIKET00&fontSize=80&fontColor=00f5ff&fontAlignY=55&stroke=00f5ff&strokeWidth=2&desc=Luis%20David%20Ibarra%20Almario%20%7C%20Systems%20Engineer&descSize=18&descAlignY=78&descColor=5aafc8&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=🖥️+Systems+Engineer+%7C+Software+Developer;⚡+Building+Commercial+Products+from+day+1;🏗️+Clean+Architecture+%7C+342%2B+Unit+Tests;🤖+AI+Engineering+%7C+Claude+API+%7C+MCP;🌎+Open+to+Remote+Work+—+LATAM+%2F+USA)](https://zoiket00.github.io)
 
