@@ -28,7 +28,7 @@ Focus    : Building Commercial Products
 
 <br>
 
-- 🖥️ Construyendo **PC Optimiz Pro X** — optimizador Windows con Clean Arch
+- 🖥️ Construyendo **ZENITH** — optimizador Windows con Clean Arch
 - 🤖 Desarrollando **FIORE MAESTRO** — IA personal next-gen
 - 📚 Lanzando **Aprender Para Emprender** — plataforma edtech
 - 💬 Pregúntame sobre `C#` · `.NET 8` · `WPF` · `Python` · `AI Engineering`
