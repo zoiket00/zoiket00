@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=ZOIKET00&fontSize=88&fontColor=00f5ff&animation=twinkling&desc=Luis%20David%20Ibarra%20Almario%20%7C%20Systems%20Engineer%20%26%20Product%20Builder&descSize=16&descAlignY=73&descColor=c8e6f0&fontAlignY=44" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=640&lines=Building+Commercial+Products+that+Sell+%F0%9F%96%A5%EF%B8%8F;AI+Engineering+with+Claude+API+%F0%9F%A4%96;Clean+Architecture+%2B+TDD+on+every+project+%E2%9A%A1;Open+to+Remote+Work+LATAM+%2F+USA+%F0%9F%8C%8E;Junior+in+title%2C+Senior+in+mindset+%F0%9F%94%A5)](https://zoiket00.github.io)
+<img src="https://raw.githubusercontent.com/zoiket00/zoiket00/main/header.svg" width="100%" alt="zoiket00 banner"/>
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zoiket00&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)
-&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/zoiket00?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS)
-&nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/zoiket00?style=for-the-badge&color=ffb300&labelColor=0d1117&label=STARS)
 
 </div>
@@ -31,18 +27,16 @@ Focus    : Commercial Products
 
 <br>
 
-🖥️ Construyendo **PC Optimiz Pro X** — 342+ tests, Clean Arch, HMAC-SHA256  
-🤖 Desarrollando **FIORE MAESTRO** — IA personal con Claude API + 100 tools  
-📚 Lanzando **Aprender Para Emprender** — plataforma edtech real  
-💬 Pregúntame sobre `C#` · `.NET 8` · `WPF` · `Python` · `AI Engineering`  
+🖥️ Construyendo **PC Optimiz Pro X** — 342+ tests, Clean Arch, HMAC-SHA256
+🤖 Desarrollando **FIORE MAESTRO** — IA personal con Claude API + 100 tools
+📚 Lanzando **Aprender Para Emprender** — plataforma edtech real
+💬 Pregúntame sobre `C#` · `.NET 8` · `WPF` · `Python` · `AI Engineering`
 ⚡ Fun fact: escribo los tests **antes** del código
 
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_MI_PORTFOLIO-zoiket00.github.io-00f5ff?style=for-the-badge&labelColor=0d1117)](https://zoiket00.github.io)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zoiket00)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisdavidibarraalmario@gmail.com)
 
 ---
@@ -55,15 +49,8 @@ Focus    : Commercial Products
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zoiket00&theme=dark&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=ffb300&currStreakNum=ffffff&sideNums=c8e6f0&currStreakLabel=00f5ff&sideLabels=5aafc8&dates=3a7a90" width="49%" alt="streak stats"/>
-&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zoiket00&theme=dark&background=0d1117&border=00f5ff&stroke=00f5ff&ring=00f5ff&fire=ffb300&currStreakNum=ffffff&sideNums=c8e6f0&currStreakLabel=00f5ff&sideLabels=5aafc8&dates=3a7a90&hide_border=false" width="49%" alt="streak stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoiket00&layout=donut-vertical&theme=dark&bg_color=0d1117&title_color=00f5ff&text_color=c8e6f0&border_color=00f5ff&border_radius=4&langs_count=8&count_private=true" width="27%" alt="top langs"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoiket00&theme=github_dark" width="32%" alt="repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zoiket00&theme=github_dark" width="32%" alt="commit language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoiket00&theme=github_dark&utcOffset=-5" width="32%" alt="productive time"/>
 
 </div>
 
@@ -95,7 +82,7 @@ Focus    : Commercial Products
 
 [![Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,git,github&theme=dark&perline=6)](https://zoiket00.github.io)
 
-**`// Dev Environment`**
+**`// IDEs & Dev Tools`**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,obsidian,windows,linux&theme=dark&perline=6)](https://zoiket00.github.io)
 
@@ -113,8 +100,7 @@ Focus    : Commercial Products
 
 ### 🖥️ PC Optimiz Pro X
 ![FLAGSHIP](https://img.shields.io/badge/●_FLAGSHIP-00f5ff?style=flat-square&labelColor=0d1117)
-&nbsp;
-![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square&labelColor=0d1117)
+![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square)
 
 Optimizador Windows profesional. **24 módulos** de optimización, rollback firmado con **HMAC-SHA256**, **342+ unit tests**, Clean Architecture 4 capas. Modelo **Free + PRO $9.99**.
 
@@ -129,8 +115,7 @@ Optimizador Windows profesional. **24 módulos** de optimización, rollback firm
 
 ### 🤖 FIORE MAESTRO
 ![AI PROJECT](https://img.shields.io/badge/●_AI_PROJECT-d97706?style=flat-square&labelColor=0d1117)
-&nbsp;
-![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square&labelColor=0d1117)
+![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square)
 
 Asistente IA personal autónomo. Ejecuta tareas reales — correo, calendario, vault Obsidian, PC. **100+ herramientas** integradas. No es un chatbot: es un motor de ejecución personal.
 
@@ -145,9 +130,9 @@ Asistente IA personal autónomo. Ejecuta tareas reales — correo, calendario, v
 <td width="50%" valign="top">
 
 ### 📚 [Aprender Para Emprender](https://github.com/zoiket00/Aprender-Para-Emprender)
-![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square&labelColor=0d1117)
+![EN DESARROLLO](https://img.shields.io/badge/EN_DESARROLLO-ffb300?style=flat-square)
 
-Plataforma edtech para emprendedores. Auth completo, dashboard, módulos de contenido estructurado y herramientas para iniciar negocios desde cero.
+Plataforma edtech para emprendedores con recursos, módulos y herramientas reales para iniciar negocios. Auth, dashboard y contenido estructurado.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -159,7 +144,7 @@ Plataforma edtech para emprendedores. Auth completo, dashboard, módulos de cont
 ### 🏫 [CIDI Asistencia 2026](https://github.com/zoiket00/cidi-asistencia-2026-)
 ![ENTREGADO](https://img.shields.io/badge/✔_ENTREGADO-00ff88?style=flat-square&labelColor=0d1117)
 
-Sistema de control de asistencia para institución educativa real. **Cliente en producción.** Registro, reportes y panel de administración.
+Sistema de control de asistencia para institución educativa real. **Cliente en producción.** Registro de asistencia, reportes y panel admin.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
@@ -177,7 +162,7 @@ Sistema de control de asistencia para institución educativa real. **Cliente en 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zoiket00&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffb300&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff&custom_title=Contribuciones%202026%20—%20zoiket00)](https://github.com/zoiket00)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zoiket00&theme=react-dark&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffb300&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff&custom_title=Contribuciones%20de%20zoiket00%20—%202026)](https://github.com/zoiket00)
 
 </div>
 
@@ -218,8 +203,8 @@ Sistema de control de asistencia para institución educativa real. **Cliente en 
 
 ### 💬 `[ QUOTE ]`
 
-> *"Junior en título. **Senior en mentalidad.**  
-> Construyo productos comerciales desde el primer commit."*
+> *"Junior en título. **Senior en mentalidad.**<br>*
+> *Construyo productos comerciales desde el primer commit."*
 
 ---
 
@@ -227,6 +212,6 @@ Sistema de control de asistencia para institución educativa real. **Cliente en 
 
 **[→ Ver portfolio completo en zoiket00.github.io](https://zoiket00.github.io)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20together%20%F0%9F%9A%80&fontSize=14&fontColor=c8e6f0&fontAlignY=72&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20together%20🚀&fontSize=15&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
